@@ -1,0 +1,11 @@
+D:\Patterns\Abstract\bin\Debug\Abstract.exe.config
+D:\Patterns\Abstract\bin\Debug\Abstract.exe
+D:\Patterns\Abstract\bin\Debug\Abstract.pdb
+D:\Patterns\Abstract\obj\Debug\Abstract.exe
+D:\Patterns\Abstract\obj\Debug\Abstract.pdb
+C:\Users\User\Downloads\Codigo_Patterns\Patterns\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\User\Downloads\Codigo_Patterns\Patterns\Abstract\obj\Debug\Abstract.exe
+C:\Users\User\Downloads\Codigo_Patterns\Patterns\Abstract\obj\Debug\Abstract.pdb
+C:\Users\User\Downloads\Codigo_Patterns\Patterns\Abstract\bin\Debug\Abstract.exe
+C:\Users\User\Downloads\Codigo_Patterns\Patterns\Abstract\bin\Debug\Abstract.pdb
+C:\Users\User\Downloads\Codigo_Patterns\Patterns\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache

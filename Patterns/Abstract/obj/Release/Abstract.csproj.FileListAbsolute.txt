@@ -1,0 +1,1 @@
+D:\Patterns\Abstract\bin\Release\Abstract.exe.config
